@@ -1,6 +1,5 @@
-# student_dashboard
-Interactive Data Visualization Dashboard
-Overview
+# Interactive Data Visualization Dashboard
+
 This project is an interactive data visualization dashboard developed as part of the ICT305 – Data Visualisation and Simulation unit. The dashboard demonstrates how raw data can be transformed into clear, insightful, and interactive visual narratives using modern visualization principles and Python-based tools.
 The focus of this project is not only on creating charts, but on applying good UI/UX design, data storytelling, and best visualization practices to support user understanding and decision-making.
 
